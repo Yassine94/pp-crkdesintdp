@@ -65,3 +65,7 @@ Design the object-oriented design for Othello.
 Design a CircularArray class that supports an array-like data structure which can be efficiently rotated.<br />
 
 If possible, the class should use a generic type (also called a template), and should support iteration via the standard f or (Obj o : circularArray) notation.
+
+## <a name='bonus'>🦄 Bonus</a>
+
+Implement everything ;)
